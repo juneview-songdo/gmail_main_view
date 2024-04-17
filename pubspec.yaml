@@ -1,7 +1,7 @@
 name: gmail_main_view
-description: "Description here"
+description: "gmail main view"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/gmail_main_view
 
 version: 1.0.0+1
 
