@@ -89,7 +89,7 @@ class NewViewState extends State<NewView> with StateMother {
                   ItemView(
                       username: "Anoty Start",
                       useravatar:
-                          'https://encrypted-tbn0.gstatictps://encrypted-tbn0.gstatic.com/images?q=tb.com/images?q=tbn%3AANd9GcSuf7y7ZaiIH4hOdjknWtigAIixaQnpCI66xQ&usqp=CAU',
+                          'https://qph.fs.quoracdn.net/main-qimg-11ef692748351829b4629683eff21100.webp',
                       avatarcolor: Colors.greenAccent,
                       subject: "Freshworl",
                       timeago: "Aug 23",
@@ -102,7 +102,7 @@ class NewViewState extends State<NewView> with StateMother {
                   ItemView(
                       username: "Joan Louji",
                       useravatar:
-                          'https://encrypted-tbn0.gstatictps://encrypted-tbn0.gstatic.com/images?q=tb.com/images?q=tbn%3AANd9GcSuf7y7ZaiIH4hOdjknWtigAIixaQnpCI66xQ&usqp=CAU',
+                          'https://qph.fs.quoracdn.net/main-qimg-11ef692748351829b4629683eff21100.webp',
                       avatarcolor: Colors.yellow,
                       subject: "(no subject)",
                       timeago: "Aug 23",
@@ -136,7 +136,7 @@ class NewViewState extends State<NewView> with StateMother {
                   ItemView(
                       username: "Racheal",
                       useravatar:
-                          'https://encrypted-tbn0.gstatictps://encrypted-tbn0.gstatic.com/images?q=tb.com/images?q=tbn%3AANd9GcSuf7y7ZaiIH4hOdjknWtigAIixaQnpCI66xQ&usqp=CAU',
+                          'https://qph.fs.quoracdn.net/main-qimg-11ef692748351829b4629683eff21100.webp',
                       avatarcolor: Colors.blue,
                       subject: "Hangout Chat",
                       timeago: "Aug 26",
@@ -195,7 +195,7 @@ class NewViewState extends State<NewView> with StateMother {
                   ItemView(
                       username: "Alka University",
                       useravatar:
-                          'https://encrypted-tbn0.gstatictps://encrypted-tbn0.gstatic.com/images?q=tb.com/images?q=tbn%3AANd9GcSuf7y7ZaiIH4hOdjknWtigAIixaQnpCI66xQ&usqp=CAU',
+                          'https://qph.fs.quoracdn.net/main-qimg-11ef692748351829b4629683eff21100.webp',
                       avatarcolor: Colors.blueAccent,
                       subject: "Job | Software Developer",
                       timeago: "Aug 26",
@@ -208,7 +208,7 @@ class NewViewState extends State<NewView> with StateMother {
                   ItemView(
                       username: "Find me",
                       useravatar:
-                          'https://encrypted-tbn0.gstatictps://encrypted-tbn0.gstatic.com/images?q=tb.com/images?q=tbn%3AANd9GcSuf7y7ZaiIH4hOdjknWtigAIixaQnpCI66xQ&usqp=CAU',
+                          'https://qph.fs.quoracdn.net/main-qimg-11ef692748351829b4629683eff21100.webp',
                       avatarcolor: Colors.greenAccent,
                       subject:
                           "Job | Software Developer Job | Software Developer Job | Software Developer Job | Software Developer Job | Software Developer",
@@ -246,7 +246,7 @@ class NewViewState extends State<NewView> with StateMother {
                   ItemView(
                       username: "Spidy",
                       useravatar:
-                          'https://encrypted-tbn0.gstatictps://encrypted-tbn0.gstatic.com/images?q=tb.com/images?q=tbn%3AANd9GcSuf7y7ZaiIH4hOdjknWtigAIixaQnpCI66xQ&usqp=CAU',
+                          'https://qph.fs.quoracdn.net/main-qimg-11ef692748351829b4629683eff21100.webp',
                       avatarcolor: Colors.orangeAccent,
                       subject: "Job | Software Developer",
                       timeago: "Aug 26",
